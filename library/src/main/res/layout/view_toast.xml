@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="wrap_content"
+    android:id="@+id/txt_tip"
+    android:maxLines="1"
+    android:background="@drawable/toast_bg"
+    android:padding="15dp"
+    android:textColor="#FFFFFFFF"
+    android:textSize="16sp"
+    android:gravity="center"
+    android:layout_height="wrap_content">
+
+</TextView>
